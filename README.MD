@@ -27,3 +27,15 @@ Done.
 - Node js + NPM
 
 VSCODE EXTENSIONS:
+<<<<<<< HEAD
+=======
+mongodb
+gitlens
+mysql(database)
+git blame
+git history
+live server
+prettier or beutifuy
+
+visual studio intellicode
+>>>>>>> 94a4dbad305e75a9e7fb075937d15c53385256f7
